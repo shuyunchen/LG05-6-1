@@ -1,0 +1,4 @@
+- by: xpath
+  locator: "//*[@resource-id='com.tencent.wework:id/eq7']"
+  action: send
+  value: "{value}"
